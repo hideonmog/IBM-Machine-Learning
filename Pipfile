@@ -15,6 +15,7 @@ ipykernel = "*"
 tensorflow-macos = "*"
 tensorflow-metal = "*"
 plotly = "*"
+openpyxl = "*"
 
 [dev-packages]
 
