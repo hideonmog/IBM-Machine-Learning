@@ -14,3 +14,6 @@
 - [More Feature Engineering](https://github.com/hideonmog/IBM-Machine-Learning/blob/main/Course-01/notebooks/Feature_Engineering_Lab.ipynb)
 
 ### Inferential Statistics and Hypothesis Testing
+
+- [1e Hypothesis Testing](https://github.com/hideonmog/IBM-Machine-Learning/blob/main/Course-01/notebooks/01e_DEMO_Hypothesis_Testing.ipynb)
+- [More Hypothesis Testing](https://github.com/hideonmog/IBM-Machine-Learning/blob/main/Course-01/notebooks/HypothesisTesting_Lab.ipynb)
