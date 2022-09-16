@@ -1,7 +1,7 @@
 # Supervised Machine Learning: Classification
 
 - [Logistic Regression](https://github.com/hideonmog/IBM-Machine-Learning/blob/main/Course-03/notebooks/03a_LAB_Logistic_Regression_Error_Metrics.ipynb)
-- [More Logistic Regression]()
+- [More Logistic Regression](https://github.com/hideonmog/IBM-Machine-Learning/blob/main/Course-03/notebooks/lab_jupyter_logistic_regression.ipynb)
 - [K Nearest Neighbours]()
 - [More K Nearest Neighbours]()
 - [Support Vector Machines]()
